@@ -89,7 +89,7 @@ The exercise did not establish a real-world compromise or independently confirm 
 
 The original academic presentation includes screenshots of the Windows and Linux environments, administrative commands, CyberChef exercises, IIS directory configuration, and Dirb scan results.
 
-**[View Revised IIS Security Assessment](Niknaz_Sadehvandi_IIS_Security_Assessment.pdf)**
+**[View IIS Security Assessment](Niknaz_Sadehvandi_IIS_Security_Assessment.pdf)**
 
 ## Skills Demonstrated
 
