@@ -1,7 +1,5 @@
 # Network Security Assessment – IIS Web Server Lab
 
-![Project Cover](digital-forensics-project1-cover.png)
-
 ## Overview
 
 This project documents a simulated web server security assessment completed in the University of Maryland Global Campus (UMGC) MARS laboratory.
