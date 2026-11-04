@@ -1,5 +1,7 @@
 # Network Security Assessment – IIS Web Server Lab
+
 ![IIS Security Assessment Cover](iis-security-assessment-cover.png)
+
 ## Overview
 
 This project documents a simulated web server security assessment completed in the University of Maryland Global Campus (UMGC) MARS laboratory.
